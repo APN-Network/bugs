@@ -1,0 +1,16 @@
+# SPDX-FileCopyrightText: Copyright (c) 2026 APN
+# SPDX-License-Identifier: MIT
+
+version = 1
+[[annotations]]
+path = [
+    "**.md",
+    "**/*.md",
+    "README.md",
+    "CONTRIBUTING.md",
+    "**/.DS_Store",
+    "**/.gitignore",
+]
+precedence = "override"
+SPDX-FileCopyrightText = "Copyright (c) 2026 APN"
+SPDX-License-Identifier = "MIT"
