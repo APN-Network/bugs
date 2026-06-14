@@ -1,16 +1,14 @@
 # APN Bug Reports
 
-APN is a VPN service with native clients for Android, iOS, and macOS.
+APN is a VPN service with a native Android client.
 This repository is where we collect bug reports from testers and users.
 Found something broken?
 Please [open an issue][issues].
 
 ## Where to Get the App
 
-The Android app is published on [Google Play][play], which is the easiest
-  place to start testing.
-We also ship native clients for iOS and macOS that share the same behaviour,
-  so a bug found on one platform is worth checking on the others.
+The Android app is published on [Google Play][play], which is where
+  you start testing.
 
 ## What to Test
 
@@ -35,14 +33,13 @@ The areas we care about most:
 
 One bug per issue, with enough detail for us to reproduce it:
 
-- App version (build number) and platform (e.g. Android 14, iOS 17, macOS 14).
+- App version (build number) and platform (e.g. Android 14).
 - Steps to reproduce, numbered.
 - Expected behaviour versus what actually happened.
 - Screenshots or a screen recording when the bug is visual.
 - The server or country involved, if the bug is connection-related.
 - App logs when the bug involves a connection drop, a reconnection failure,
-  or a suspected leak: `adb logcat` output on Android, a Console.app export
-  on iOS or macOS.
+  or a suspected leak: `adb logcat` output on Android.
 
 Before opening an issue, please search the [tracker][issues] to avoid
   duplicates.
