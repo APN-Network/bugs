@@ -54,4 +54,4 @@ To claim, email [bugs@apn.tech](mailto:bugs@apn.tech) from the address
   wallet address.
 
 [issues]: https://github.com/APN-Network/bugs/issues
-[play]: https://play.google.com/store/apps/details?id=
+[play]: https://play.google.com/store/apps/details?id=tech.apn
