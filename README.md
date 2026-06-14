@@ -52,8 +52,9 @@ Before opening an issue, please search the [tracker][issues] to avoid
 We pay $10, $25, or $50 for every accepted bug, depending on its severity.
 Once a bug is accepted, we attach a reward label to its issue.
 A label means the reporter may claim the bonus.
-To claim, email [bugs@apn.tech](mailto:bugs@apn.tech) with your USDT
-  (ERC-20 on Ethereum mainnet) wallet address.
+To claim, email [bugs@apn.tech](mailto:bugs@apn.tech) from the address
+  tied to your report, and include your USDT (ERC-20 on Ethereum mainnet)
+  wallet address.
 
 [issues]: https://github.com/APN-Network/bugs/issues
 [play]: https://play.google.com/store/apps/details?id=
