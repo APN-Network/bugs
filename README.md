@@ -7,8 +7,8 @@ Please [open an issue][issues].
 
 ## Where to Get the App
 
-The Android app is published on [Google Play][play], which is where
-  you start testing.
+The Android app is published on [Google Play] and [Huawei AppGallery],
+  which is where you start testing.
 
 ## What to Test
 
@@ -54,4 +54,5 @@ To claim, email [bugs@apn.tech](mailto:bugs@apn.tech) from the address
   wallet address.
 
 [issues]: https://github.com/APN-Network/bugs/issues
-[play]: https://play.google.com/store/apps/details?id=tech.apn
+[Google Play]: https://play.google.com/store/apps/details?id=tech.apn
+[Huawei AppGallery]: https://appgallery.huawei.com/app/C117910435
