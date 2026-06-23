@@ -47,7 +47,8 @@ Payment is processed after the bug is verified, and, where a fix is
 - You must be the original reporter of the bug to claim its reward.
 - Reports without enough detail to reproduce the bug are closed as invalid.
 - Security-sensitive bugs (traffic leaks, credential exposure, data loss)
-  should be reported with care; contact us before any public disclosure.
+  should be reported with care; contact us before any public disclosure,
+  by email: security@apn.tech.
 - Intentionally planting a bug to claim a reward is not allowed.
 - We reserve the right to adjust a tier or decline a reward at our discretion.
 
