@@ -27,11 +27,12 @@ The label is the signal that the report has been accepted at that tier;
   an issue without a reward label has not yet qualified for one.
 Not every valid bug earns a reward, and the tier is at our discretion.
 
-| Label | Reward | What qualifies |
-|-------|--------|----------------|
-| `$10` | $10 | Minor UI glitches, wrong labels, or cosmetic issues with a clear reproduction path |
-| `$25` | $25 | Functional bugs in core features: connection, server switching, subscriptions, or reconnection |
-| `$50` | $50 | Critical bugs affecting security or privacy: traffic leaks, kill-switch failures, or data loss |
+- `$10`: minor UI glitches, wrong labels, or cosmetic issues with a
+  clear reproduction path.
+- `$25`: functional bugs in core features: connection, server
+  switching, subscriptions, or reconnection.
+- `$50`: critical bugs affecting security or privacy: traffic leaks,
+  kill-switch failures, or data loss.
 
 ## Claiming a Reward
 
@@ -48,7 +49,7 @@ Payment is processed after the bug is verified, and, where a fix is
 - Reports without enough detail to reproduce the bug are closed as invalid.
 - Security-sensitive bugs (traffic leaks, credential exposure, data loss)
   should be reported with care; contact us before any public disclosure,
-  by email: security@apn.tech.
+  by email: [security@apn.tech](mailto:security@apn.tech).
 - Intentionally planting a bug to claim a reward is not allowed.
 - We reserve the right to adjust a tier or decline a reward at our discretion.
 
