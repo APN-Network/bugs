@@ -54,7 +54,15 @@ For a security-sensitive bug — a traffic leak, credential exposure, or
 ## Rewards
 
 We may pay $10, $25, or $50 for an accepted bug, depending on its
-  severity and at our discretion.
+  severity and at our discretion:
+
+- $10 — minor UI glitches, wrong labels, or cosmetic issues.
+- $25 — functional bugs in core features: connection, server switching,
+  subscriptions, or reconnection.
+- $50 — critical bugs affecting security or privacy: traffic leaks,
+  kill-switch failures, or data loss.
+
+See [Reward Tiers](CONTRIBUTING.md#reward-tiers) for the full criteria.
 Once a bug is accepted, we attach a reward label to its issue.
 A label means the reporter may claim the bonus.
 To claim, email [bugs@apn.tech](mailto:bugs@apn.tech) — the reward mailbox,
