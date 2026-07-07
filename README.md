@@ -41,6 +41,8 @@ One bug per issue, with enough detail for us to reproduce it:
 - App logs when the bug involves a connection drop, a reconnection failure,
   or a suspected leak: `adb logcat` output on Android.
 
+A report without enough detail to reproduce the bug is closed as invalid.
+
 Before opening an issue, please search the [tracker][issues] to avoid
   duplicates.
 For a security-sensitive bug — a traffic leak, credential exposure, or
