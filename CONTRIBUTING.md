@@ -8,7 +8,7 @@ This guide explains how to report a bug, what the reward labels mean,
 
 One bug per issue, with enough detail for us to reproduce it:
 
-- App version (build number) and platform (e.g. Android 14, iOS 17, macOS 14).
+- App version (build number) and platform (e.g. Android 14).
 - Steps to reproduce, numbered.
 - Expected behaviour versus what actually happened.
 - Screenshots or a screen recording when the bug is visual.
