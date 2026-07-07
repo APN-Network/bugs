@@ -43,6 +43,9 @@ One bug per issue, with enough detail for us to reproduce it:
 
 Before opening an issue, please search the [tracker][issues] to avoid
   duplicates.
+For a security-sensitive bug — a traffic leak, credential exposure, or
+  data loss — contact [security@apn.tech](mailto:security@apn.tech)
+  before any public disclosure.
 
 ## Rewards
 
