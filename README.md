@@ -45,6 +45,8 @@ A report without enough detail to reproduce the bug is closed as invalid.
 
 Before opening an issue, please search the [tracker][issues] to avoid
   duplicates.
+The first complete report of a given bug is the one we reward; later
+  reports of the same bug are closed as duplicates.
 For a security-sensitive bug — a traffic leak, credential exposure, or
   data loss — contact [security@apn.tech](mailto:security@apn.tech)
   before any public disclosure.
