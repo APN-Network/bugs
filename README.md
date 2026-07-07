@@ -56,6 +56,8 @@ To claim, email [bugs@apn.tech](mailto:bugs@apn.tech) — the reward mailbox,
   Ethereum mainnet) wallet address.
 Payment is processed after the bug is verified, and, where a fix is
   involved, after the fix is accepted.
+Intentionally planting a bug to claim a reward is not allowed;
+  see [CONTRIBUTING](CONTRIBUTING.md) for the full rules.
 
 [issues]: https://github.com/APN-Network/bugs/issues
 [Google Play]: https://play.google.com/store/apps/details?id=tech.apn
