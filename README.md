@@ -54,6 +54,8 @@ To claim, email [bugs@apn.tech](mailto:bugs@apn.tech) — the reward mailbox,
   not the [bug@apn.tech](mailto:bug@apn.tech) address for direct bug reports —
   from the address tied to your report, and include your USDT (ERC-20 on
   Ethereum mainnet) wallet address.
+Payment is processed after the bug is verified, and, where a fix is
+  involved, after the fix is accepted.
 
 [issues]: https://github.com/APN-Network/bugs/issues
 [Google Play]: https://play.google.com/store/apps/details?id=tech.apn
