@@ -46,7 +46,8 @@ Before opening an issue, please search the [tracker][issues] to avoid
 
 ## Rewards
 
-We pay $10, $25, or $50 for every accepted bug, depending on its severity.
+We may pay $10, $25, or $50 for an accepted bug, depending on its
+  severity and at our discretion.
 Once a bug is accepted, we attach a reward label to its issue.
 A label means the reporter may claim the bonus.
 To claim, email [bugs@apn.tech](mailto:bugs@apn.tech) — the reward mailbox,
