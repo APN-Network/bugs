@@ -13,6 +13,8 @@ One bug per issue, with enough detail for us to reproduce it:
 - Expected behaviour versus what actually happened.
 - Screenshots or a screen recording when the bug is visual.
 - The server or country involved, if the bug is connection-related.
+- App logs when the bug involves a connection drop, a reconnection failure,
+  or a suspected leak: `adb logcat` output on Android.
 
 Before opening an issue, please search the [tracker][issues] to avoid
   duplicates.
