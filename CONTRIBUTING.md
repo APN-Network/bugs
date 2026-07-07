@@ -37,9 +37,9 @@ Not every valid bug earns a reward, and the tier is at our discretion.
 ## Claiming a Reward
 
 Once a reward label is on your issue, you may claim the bonus.
-To claim, email [bugs@apn.tech](mailto:bugs@apn.tech) from the address
-  tied to your report, and include your USDT (ERC-20 on Ethereum mainnet)
-  wallet address.
+To claim, email [bugs@apn.tech](mailto:bugs@apn.tech) from the email
+  address registered to your GitHub account, and include your USDT
+  (ERC-20 on Ethereum mainnet) wallet address.
 Payment is processed after the bug is verified, and, where a fix is
   involved, after the fix is accepted.
 
